@@ -102,7 +102,7 @@ def changing_alan
         :alan_kay => {
           :known_for => :alans_new_info,
           :languages => ["Smalltalk", "LISP"]
-          :alans_new_info => "GUI"
+          
         },
         :dennis_ritchie => {
           :known_for => "Unix",
